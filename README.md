@@ -28,7 +28,7 @@ This project explores a relational database representing transactional and opera
 The dataset emulates a normalized schema suitable for business intelligence use cases, including customer behavior, product sales performance, and currency-based revenue tracking. The database schema follows a star schema structure, with the sales table serving as the central fact table. 
 
 <div align="center">
- <img width="631" alt="Image 1" src="https://github.com/user-attachments/assets/e3ab6542-4d4b-44f1-8301-fa1544fb7474" />
+ <<img width="707" height="955" alt="Image" src="https://github.com/user-attachments/assets/e3ab6542-4d4b-44f1-8301-fa1544fb7474" />
 </div>
 
 
